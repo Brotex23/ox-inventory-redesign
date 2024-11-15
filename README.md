@@ -2,7 +2,7 @@
 Brotex Fivem OX INVENTORY REDESIGN
 
 # Preview
-https://youtu.be/mv6dfBG0z3o
+[Youtube](https://youtu.be/mv6dfBG0z3o)
 
 # Support 
-https://discord.gg/brotexdevelopment
+[Discod](https://discord.gg/brotexdevelopment)
